@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robert @inforstar
-- 👀 I’m interested in solving issues in world of software
+- 👀 I’m interested in solving issues and complex challenges in world of software
 - 🌱 I’m currently learning new test automation technologies
 - 💞️ I’m looking to collaborate on sw development, test automation
 - 📫 drop me a note on robert@inforstar.eu in case you are looking for help developing stuff, learning software development, testing or test automation
